@@ -1,4 +1,4 @@
-# ![](./dm.gif)
+# ![](./dm.gif =540x120)
 ### Hello there 
 
 - 🔭 I’m currently working on ...
