@@ -1,4 +1,5 @@
-### Hi there 👋
+![](./bkg.jpg)
+### Hello there 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
