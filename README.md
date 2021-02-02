@@ -1,4 +1,4 @@
-![](./bkg.jpg)
+![](./giphy.gif)
 ### Hello there 
 
 - 🔭 I’m currently working on ...
